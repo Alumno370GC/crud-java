@@ -1,0 +1,32 @@
+/**Estilos generales***/
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+body{
+
+background-color: bisque;
+
+}
+/**Estilos generales***/
+
+
+/**div-titulo  h1 /css**/
+.div-titulo{
+width:    100px;
+height:   100px;
+display: flex;
+justify-content:center;
+align-items: center;
+
+}
+
+
+/**div-titulo  h1 /css**/
+.div-titulo h1{
+
+    font-weight: 300;
+}
